@@ -90,6 +90,8 @@ V5.9 已显著加强资料覆盖闭环，但仍建议后续继续完善：
 
 欢迎通过 GitHub Issues 提交漏项、错误案例和改进建议。提交修改前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+欢迎通过公众号：有情节的投研分析     进行交流
+
 ## License
 
 本项目采用 [MIT License](LICENSE)。第三方资料及其内容不因本项目许可证而改变原有权利归属。
